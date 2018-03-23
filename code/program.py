@@ -40,3 +40,5 @@ if __name__ == "__main__":
     multithreaded()
     #simple()
     #multiprocessed()
+
+print (file=sys.stdout)
